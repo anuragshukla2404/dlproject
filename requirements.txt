@@ -1,2 +1,7 @@
 matplotlib
-PIL
+pillow
+pandas
+torch
+torchvision
+imshow
+numpy
