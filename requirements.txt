@@ -5,3 +5,4 @@ torch
 torchvision
 imshow
 numpy
+imageio
