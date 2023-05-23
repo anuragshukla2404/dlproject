@@ -6,3 +6,4 @@ torchvision
 imshow
 numpy
 imageio
+tqdm
